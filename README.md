@@ -1,12 +1,2 @@
 # Engineer-Indro
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   YouTube Redirect 
-</head>
-<body>
-    
-</body>
-</html>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=inderdev07&label=Profile%20views&color=0e75b6&style=flat" alt="inderdev07" /> </p>
